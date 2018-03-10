@@ -1,3 +1,6 @@
+
+### 已修复不同节点之间的一致性（共识）问题
+
 # Learn Blockchains by Building One
 
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
