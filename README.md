@@ -1,5 +1,4 @@
 
-### 已修复不同节点之间的一致性（共识）问题
 
 # Learn Blockchains by Building One
 
@@ -73,4 +72,14 @@ https://www.visualstudio.com/vs/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 修改日志
+
+### 2018-03-10 
+
+   已修复不同节点之间的一致性（共识）问题
+
+
+
+
 
